@@ -541,7 +541,7 @@
 					"@executable_path/Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				MARKETING_VERSION = 0.7.6;
+				MARKETING_VERSION = 0.7.8;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = net.tetranea.game;
 				PRODUCT_NAME = Tetranea;
@@ -601,7 +601,7 @@
 					"@executable_path/Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				MARKETING_VERSION = 0.7.6;
+				MARKETING_VERSION = 0.7.8;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = net.tetranea.game;
 				PRODUCT_NAME = Tetranea;
@@ -662,7 +662,7 @@
 					"@executable_path/Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				MARKETING_VERSION = 0.7.6;
+				MARKETING_VERSION = 0.7.8;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = net.tetranea.game;
 				PRODUCT_NAME = Tetranea;
